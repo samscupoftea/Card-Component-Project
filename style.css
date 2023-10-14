@@ -36,3 +36,26 @@ button {
     color: grey;
 
 }
+
+.title{
+    margin: 16px 0 ;
+    text-transform: capitalize;
+    letter-spacing: 1.5;
+
+}
+
+.description{
+    max-width: 60ch;
+    color: grey;
+
+}
+
+.btn{
+    background-color: greenyellow;
+    color: black;
+    padding: 8px 14px;
+    border-radius: 10px;
+    font-weight: 800;
+    margin-top: 12px;
+
+}
