@@ -7,5 +7,24 @@
 * {
     margin: 0;
     padding: 0;
-    line-height: 1,5;
+    line-height: 1.5;
+}
+
+body {
+    font-family: 'Averia Serif Libre', serif;
+}
+button {
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+.card {
+    border: 5px solid red;
+    width:600px;
+    background-color: black;
+    color: white;
+    padding: 16px;
+    border-radius: 10px;
+    margin: 100px auto;
+
 }
