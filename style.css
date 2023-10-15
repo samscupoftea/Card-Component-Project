@@ -80,10 +80,26 @@ strong{
 }
 .description2{
     color: grey;
+    max-width: 30ch;
 }
 
 h2{
     color: white;
 }
 
+.btn2{
+    background-color: green;
+    padding: 10px 5px;
+    border-radius: 20px;
+    margin-top: 10px;
+    width: 100px;
+    
+}
+.luckyNumber{
+    color:yellow;
+    font-size: 2rem;
+    margin: 0 auto;
+    position: relative;
+    
 
+}
