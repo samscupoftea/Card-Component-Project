@@ -59,3 +59,31 @@ button {
     margin-top: 12px;
 
 }
+strong{
+ color:white;
+}
+
+.card2{
+    border: 10px blue solid;
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 2px;
+    margin-top: 40px;
+    background-color: black;
+}
+
+.name2{
+    color: grey;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+}
+.description2{
+    color: grey;
+}
+
+h2{
+    color: white;
+}
+
+
